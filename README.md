@@ -61,49 +61,6 @@ Cada bloco culmina em um projeto que consolida o aprendizado:
 
 ---
 
-## 📁 Estrutura de Diretórios
-
-
-Diamond-Forge/
-│
-├── bloco1-fundamentos-poo/
-│   ├── 001-a-boas-vindas/
-│   │   ├── models.py
-│   │   └── main.py
-│   ├── 002-a-biblioteca/
-│   │   └── main.py
-│   ├── ...
-│   └── projeto-biblioCLI/
-│
-├── bloco2-poo-avancado/
-│   ├── ...
-│   └── projeto-validatORM/
-│
-├── bloco3-iteraveis-geradores/
-│   ├── ...
-│   └── projeto-asyncLog/
-│
-├── bloco4-tipagem-estatica/
-│   ├── ...
-│   └── projeto-shopforge/
-│
-├── bloco5-concorrencia/
-│   ├── ...
-│   └── projeto-mlforge/
-│
-├── bloco6-metaprogramacao/
-│   ├── ...
-│   └── projeto-diamond-prediction/
-│
-├── README.md          ← você está aqui
-├── CHANGELOG.md
-└── PROGRESS.md
-
-
-**Nota:** Cada exercício contém apenas os arquivos `.py` necessários. A documentação central vive no README principal — sem READMEs individuais por exercício.
-
----
-
 ## 🛡️ O Paredão Python (Code Runner)
 
 Para manter o mesmo rigor do C Crucible, todo exercício é executado com:
