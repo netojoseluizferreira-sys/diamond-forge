@@ -63,7 +63,7 @@ Cada bloco culmina em um projeto que consolida o aprendizado:
 
 ## 📁 Estrutura de Diretórios
 
-```
+
 Diamond-Forge/
 │
 ├── bloco1-fundamentos-poo/
@@ -98,7 +98,7 @@ Diamond-Forge/
 ├── README.md          ← você está aqui
 ├── CHANGELOG.md
 └── PROGRESS.md
-```
+
 
 **Nota:** Cada exercício contém apenas os arquivos `.py` necessários. A documentação central vive no README principal — sem READMEs individuais por exercício.
 
