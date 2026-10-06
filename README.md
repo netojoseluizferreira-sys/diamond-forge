@@ -63,7 +63,7 @@ Cada bloco culmina em um projeto que consolida o aprendizado:
 
 ## 📁 Estrutura de Diretórios
 
-
+```
 Diamond-Forge/
 │
 ├── bloco1-fundamentos-poo/
@@ -98,7 +98,7 @@ Diamond-Forge/
 ├── README.md          ← você está aqui
 ├── CHANGELOG.md
 └── PROGRESS.md
-
+```
 
 **Nota:** Cada exercício contém apenas os arquivos `.py` necessários. A documentação central vive no README principal — sem READMEs individuais por exercício.
 
@@ -124,13 +124,28 @@ Para manter o mesmo rigor do C Crucible, todo exercício é executado com:
 
 | Bloco | Exercícios | Projeto | Status |
 |:------|:----------|:--------|:-------|
-| 1 — POO Fundamentos | 10/10 | `biblioCLI` | ✅ Concluído (100%) |
-| 2 — POO Avançado | 0/10 | `validatORM` | 🔄 Em Execução |
+| 1 — POO Fundamentos | 10/10 | `biblioCLI` | ✅ **Concluído** 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% |
+| 2 — POO Avançado | 0/10 | `validatORM` | 🔄 **Em Execução** 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0% |
 | 3 — Iteráveis e Geradores | 0/10 | `asyncLog` | ⬛ Planejado |
 | 4 — Tipagem Estática | 0/10 | `shopforge` | ⬛ Planejado |
 | 5 — Concorrência | 0/10 | `mlforge` | ⬛ Planejado |
 | 6 — Meta-programação | 0/10 | `diamond-prediction` | ⬛ Planejado |
-| **Total** | **10/60** | | 17% |
+| **Total** | **10/60** | | 🟩⬜⬜⬜⬜⬜ 17% |
+
+---
+
+## 🏗️ Projetos Integradores
+
+Cada bloco culmina em um projeto que consolida o aprendizado:
+
+| Projeto | Após o Bloco | O que consolida | Repositório |
+|:--------|:-------------|:----------------|:------------|
+| **`biblioCLI`** | Bloco 1 | Classes, herança, dataclasses, persistência JSON | [github.com/netojoseluizferreira-sys/biblioCLI](https://github.com/netojoseluizferreira-sys/biblioCLI) |
+| **`validatORM`** | Bloco 2 | Decoradores, descriptors, metaclasses, ABC | (em breve) |
+| **`asyncLog`** | Bloco 3 | Geradores, `itertools`, `async`/`await`, `asyncio` | (em breve) |
+| **`shopforge`** | Bloco 4 | Type hints, Protocol, Generic, mypy, API com FastAPI | (em breve) |
+| **`mlforge`** | Bloco 5 | Concorrência, pipelines, MLOps simplificado | (em breve) |
+| **`diamond-prediction`** | Bloco 6 | Projeto final integrador: predição com API, Docker e CI/CD | (em breve) |
 
 ---
 
